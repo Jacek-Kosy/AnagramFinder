@@ -1,2 +1,2 @@
 # AnagramFinder
-A program that prints anagram from words in a text file
+A program that prints anagram lists from words in a text file
